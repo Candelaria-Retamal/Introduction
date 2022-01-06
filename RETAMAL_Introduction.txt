@@ -1,0 +1,14 @@
+My name is Candelaria Retamal and I am 26 years old. Currently
+I am living in Switzerland, but I am Chilean. I studied Chemical 
+Engineer and I graduated on 2020. During the past years I have
+been working on an engineer consulting office that offers its
+services to the mining industry in Chile.
+In this context, I have done several projects related with 
+satellite images and environmental monitoring of water and
+vegetation systems. For this purpose, I have been encouraged to
+work with big amounts of information which I have been processing
+using python. During university I was taught to program using 
+python; hence, I am familiarized with this coding languange.
+Also, I am familiarized with matlab, as I have worked in several
+ocassions with this software in areas related to modeling of 
+fluid dynamics and chemically induced phenomena.
